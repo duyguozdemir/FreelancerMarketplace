@@ -1,0 +1,54 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Freelancer 1",
+      "email": "freelancer1@example.com",
+      "phone": "123-456-7890",
+      "photo": "https://via.test.com/154",
+      "jobCount": 5,
+      "city": "New York"
+    },
+    {
+      "id": 2,
+      "name": "Freelancer 2",
+      "email": "freelancer2@example.com",
+      "phone": "987-654-3210",
+      "photo": "https://via.test2.com/155",
+      "jobCount": 10,
+      "city": "Los Angeles"
+    }
+  ],
+  "posts": [
+    {
+      "userId": 1,
+      "id": 1,
+      "title": "Web Design Project",
+      "body": "Created a website for a local business.",
+      "commentsCount": 10
+    },
+    {
+      "userId": 2,
+      "id": 2,
+      "title": "Mobile App Development",
+      "body": "Developed a mobile app for an online store.",
+      "commentsCount": 5
+    }
+  ],
+  "comments": [
+    {
+      "postId": 1,
+      "id": 1,
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "body": "Great job on the website!"
+    },
+    {
+      "postId": 2,
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "jane.smith@example.com",
+      "body": "Loved the app, easy to use!"
+    }
+  ]
+}
