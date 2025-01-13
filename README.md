@@ -11,12 +11,12 @@ all test results
 
 <img width="1194" alt="image" src="https://github.com/user-attachments/assets/772ab2f7-07c8-455b-902b-1af47ff16413" />
 
-running only one test case scenario
-
-<img width="901" alt="image" src="https://github.com/user-attachments/assets/bf0741ba-91b0-4bae-919a-538dd04d9f1b" />
-
-
-
 -----
 
+postman collection
 
+[FreelancerMarketplace.postman_collection.json.zip](https://github.com/user-attachments/files/18399193/FreelancerMarketplace.postman_collection.json.zip)
+
+postman test results:
+![image](https://github.com/user-attachments/assets/ba0b34ee-b1e1-4794-a18c-8b1d738e5b88)
+![image](https://github.com/user-attachments/assets/98aed955-40a9-4089-8364-3272202b5b9e)
