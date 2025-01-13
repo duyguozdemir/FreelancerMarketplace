@@ -15,7 +15,8 @@ all test results
 
 postman collection
 
-[FreelancerMarketplace.postman_collection.json.zip](https://github.com/user-attachments/files/18399193/FreelancerMarketplace.postman_collection.json.zip)
+[FreelancerMarketplace.postman_collection 2.json.zip](https://github.com/user-attachments/files/18399221/FreelancerMarketplace.postman_collection.2.json.zip)
+
 
 postman test results:
 ![image](https://github.com/user-attachments/assets/ba0b34ee-b1e1-4794-a18c-8b1d738e5b88)
